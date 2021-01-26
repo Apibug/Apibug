@@ -20,7 +20,8 @@
 - ⭐个人博客： [Apibug](https://www.apibug.com/)
 - 💬 Api聚合： [Apibug_Api](https://apibug.cn/)
 - 微信公众号：`Apibug`
-- <img src="https://apibug.cn/api/163rp/?format=text&apiKey=c4f6024f06b2a3796d822513027b6196" />
+<script type="text/javascript" src="https://apibug.cn/api/163rp/?format=text&apiKey=c4f6024f06b2a3796d822513027b6196"></script><div id="hitokoto">
+- <script>hitokoto()</script></div>
 - 做自己爱做的事
 
 
