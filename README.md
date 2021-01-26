@@ -1,4 +1,4 @@
-## 被搁浅的☀
+## Apibug - 被搁浅的☀
 ---
 <a href="http://wpa.qq.com/msgrd?v=3&uin=9147218&site=qq&menu=yes">
   <img align="left" alt="Apibug | QQ" width="26px" src="https://raw.githubusercontent.com/Apibug/Apibug/master/icon/QQ.svg" />
@@ -20,8 +20,7 @@
 - ⭐个人博客： [Apibug](https://git.io/JtLZy)
 - 💬 Api聚合： [Apibug_Api](https://git.io/Jtc1p)
 - 微信公众号：`Apibug`
-- <script>hitokoto()</script></div>
-- 做自己爱做的事
+- 如果天空总是黑暗，那就摸黑生存；如果发出声音是危险的，那就保持沉默；如果自觉无力发光，那就蜷伏于墙角。但不要习惯了黑暗就为黑暗辩护；不要为自己的苟且而得意；不要嘲讽那些比自己更勇敢热情的人们。我们可以卑微如尘土，不可扭曲如蛆虫。
 
 
 ### 🛠 技术栈 | Tech Stack
