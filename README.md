@@ -29,7 +29,6 @@
 
 - 琴弦断了，缘尽了，你也走了。 你是过客，温柔到这，沉默了。
 
-[![Apibug's github stats](https://github-readme-stats.vercel.app/api?username=Apibug&show_icons=true&theme=dark)](https://github.com/Apibug)
 
 ### 🛠 技术栈 | Tech Stack
 
