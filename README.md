@@ -1,4 +1,4 @@
-## 念念不忘 必有回响 👋
+## 被搁浅的☀
 ---
 <a href="http://wpa.qq.com/msgrd?v=3&uin=9147218&site=qq&menu=yes">
   <img align="left" alt="Apibug | QQ" width="26px" src="https://raw.githubusercontent.com/Apibug/Apibug/master/icon/QQ.svg" />
@@ -17,10 +17,9 @@
 
 - 工地搬砖的人，喜欢计算机的大叔
 - ⚡ `PHP` && `软件开发` && `打游戏`
-- ⭐个人博客： [Apibug](https://www.apibug.com/)
-- 💬 Api聚合： [Apibug_Api](https://apibug.cn/)
+- ⭐个人博客： [Apibug](https://git.io/JtLZy)
+- 💬 Api聚合： [Apibug_Api](https://git.io/Jtc1p)
 - 微信公众号：`Apibug`
-<script type="text/javascript" src="https://apibug.cn/api/163rp/?format=text&apiKey=c4f6024f06b2a3796d822513027b6196"></script><div id="hitokoto">
 - <script>hitokoto()</script></div>
 - 做自己爱做的事
 
