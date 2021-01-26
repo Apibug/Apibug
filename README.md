@@ -1,7 +1,7 @@
 ### 大家好, 我是[Apibug](https://apibug.cn)！
 ---
 <a href="http://wpa.qq.com/msgrd?v=3&uin=9147218&site=qq&menu=yes">
-  <img align="left" alt="Apibug | QQ" width="26px" src="https://raw.githubusercontent.com/Apibug/Apibug/master/icon/qq.svg" />
+  <img align="left" alt="Apibug | QQ" width="26px" src="https://raw.githubusercontent.com/Apibug/Apibug/master/icon/QQ.svg" />
 </a>
 <a href="https://weibo.com/5196733137">
   <img align="left" alt="Apibug | 新浪微博" width="26px" src="https://raw.githubusercontent.com/Apibug/Apibug/master/icon/weibo.svg" />
@@ -22,5 +22,5 @@
 <p align="left">
  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apibug&repo=dspjx&theme=radical)](https://github.com/Apibug/dspjx) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apibug&repo=QQ查手机&theme=cobalt)](https://github.com/Apibug/apibug.github.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apibug&repo=apibug.github.io&theme=cobalt)](https://github.com/Apibug/apibug.github.io)
 </p>
