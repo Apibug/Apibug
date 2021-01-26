@@ -16,11 +16,11 @@
 ### I'm Apibug 
 
 - 工地搬砖的人，一无所成的山里人
-- ⚡ `PHP` && `软件开发` && `打游戏`
-- ⭐个人博客： [Apibug](https://git.io/JtLZy)
-- 💬 Api聚合： [Apibug_Api](https://git.io/Jtc1p)
-- 💻 个人网盘： [个人常用工具](https://git.io/JtcDQ)
-- 微信公众号：`Apibug`
+- ⚡ `PHP` && `软件开发` && `打游戏`  
+- ⭐个人博客： [Apibug](https://git.io/JtLZy)  
+- 💬 Api聚合： [Apibug_Api](https://git.io/Jtc1p)  
+- 💻 个人网盘： [个人常用工具](https://git.io/JtcDQ)  
+- 微信公众号：`Apibug`  
 - 琴弦断了，缘尽了，你也走了。 你是过客，温柔到这，沉默了。
   
 
