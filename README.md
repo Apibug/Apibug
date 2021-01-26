@@ -4,20 +4,20 @@
   <img align="left" alt="Apibug | 新浪微博" width="26px" src="https://github.com/Apibug/Apibug/blob/master/icon/weibo.svg" />
 </a>
 <a href="https://t.me/Apibug">
-  <img align="left" alt="法外狂徒 | Telegram Channel" width="26px" src="https://github.com/XOS/XOS/blob/master/icon/Telegram.svg" />
+  <img align="left" alt="法外狂徒 | Telegram Channel" width="26px" src="https://github.com/Apibug/Apibug/blob/master/icon/Telegram.svg" />
 </a>
 
 
 <br />
 <br />
 <p align="left">
-  <img heigth="195" src="https://github-readme-stats.vercel.app/api?username=Apibug&show_icons=true&theme=synthwave" alt="XOS :: Profile Stats" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apibug&langs_count=10&theme=synthwave&layout=compact" alt="XOS :: Top Langs" />
+  <img heigth="195" src="https://github-readme-stats.vercel.app/api?username=Apibug&show_icons=true&theme=synthwave" alt="Apibug :: Profile Stats" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apibug&langs_count=10&theme=synthwave&layout=compact" alt="Apibug :: Top Langs" />
 </p>
 
 ## 置顶
 <p align="left">
  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apibug&repo=dspjx&theme=radical)](hhttps://github.com/Apibug/dspjx) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apibug&repo=dspjx&theme=radical)](https://github.com/Apibug/dspjx) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apibug&repo=QQ查手机&theme=cobalt)](https://github.com/Apibug/apibug.github.io)
 </p>
