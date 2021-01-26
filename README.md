@@ -1,16 +1,23 @@
-### Hi there 👋
+### 大家好, 我是[Apibug](https://apibug.cn)！
+---
+<a href="https://weibo.com/5196733137">
+  <img align="left" alt="Apibug | 新浪微博" width="26px" src="https://github.com/Apibug/Apibug/blob/master/icon/weibo.svg" />
+</a>
+<a href="https://t.me/Apibug">
+  <img align="left" alt="法外狂徒 | Telegram Channel" width="26px" src="https://github.com/XOS/XOS/blob/master/icon/Telegram.svg" />
+</a>
 
-<!--
-**Apibug/Apibug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br />
+<br />
+<p align="left">
+  <img heigth="195" src="https://github-readme-stats.vercel.app/api?username=Apibug&show_icons=true&theme=synthwave" alt="XOS :: Profile Stats" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apibug&langs_count=10&theme=synthwave&layout=compact" alt="XOS :: Top Langs" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 置顶
+<p align="left">
+ 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apibug&repo=dspjx&theme=radical)](hhttps://github.com/Apibug/dspjx) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apibug&repo=QQ查手机&theme=cobalt)](https://github.com/Apibug/apibug.github.io)
+</p>
