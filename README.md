@@ -1,10 +1,10 @@
 ### 大家好, 我是[Apibug](https://apibug.cn)！
 ---
 <a href="https://weibo.com/5196733137">
-  <img align="left" alt="Apibug | 新浪微博" width="26px" src="https://github.com/Apibug/Apibug/blob/master/icon/weibo.svg" />
+  <img align="left" alt="Apibug | 新浪微博" width="26px" src="https://github.com/Apibug/Apibug/icon/weibo.svg" />
 </a>
 <a href="https://t.me/Apibug">
-  <img align="left" alt="法外狂徒 | Telegram Channel" width="26px" src="https://github.com/Apibug/Apibug/blob/master/icon/Telegram.svg" />
+  <img align="left" alt="法外狂徒 | Telegram Channel" width="26px" src="https://github.com/Apibug/Apibug/icon/Telegram.svg" />
 </a>
 
 
