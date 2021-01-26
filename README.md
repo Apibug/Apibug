@@ -1,5 +1,8 @@
 ### 大家好, 我是[Apibug](https://apibug.cn)！
 ---
+<a href="http://wpa.qq.com/msgrd?v=3&uin=9147218&site=qq&menu=yes">
+  <img align="left" alt="Apibug | QQ" width="26px" src="https://raw.githubusercontent.com/Apibug/Apibug/master/icon/qq.svg" />
+</a>
 <a href="https://weibo.com/5196733137">
   <img align="left" alt="Apibug | 新浪微博" width="26px" src="https://raw.githubusercontent.com/Apibug/Apibug/master/icon/weibo.svg" />
 </a>
