@@ -12,7 +12,6 @@
 <br />
 <br />
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Apibug/Apibug/master/icon/apibug.gif" />
-<img src="https://apibug.cn/api/ipqm/?wd=github专用签名档&apiKey=60829979f01d212c351a634101d764d8" />
 ### I'm Apibug 
 
 - 工地搬砖，一无所成的山里人
