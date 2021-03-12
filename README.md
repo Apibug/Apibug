@@ -18,11 +18,11 @@
 
 - ⚡ `PHP` && `软件开发` && `打游戏`
 
-- ⭐个人博客： [Apibug](https://git.io/JtLZy)  
+- ⭐个人博客： [Apibug](https://www.apibug.com)  
 
-- 💬 Api聚合： [Apibug_Api](https://git.io/Jtc1p) 
+- 💬 Api聚合： [Apibug_Api](https://apibug.cn) 
 
-- 💻 个人网盘： [个人常用工具](https://git.io/JtcDQ) 
+- 💻 个人网盘： [个人常用工具](http://91dong.ys168.com) 
 
 - 微信公众号：`Apibug`  
 
