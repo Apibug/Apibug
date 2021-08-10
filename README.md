@@ -14,8 +14,6 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Apibug/Apibug/master/icon/apibug.gif" />
 ### I'm Apibug 
 
-- 工地搬砖，一无所成的山里人
-
 - ⚡ `PHP` && `软件开发` && `打游戏`
 
 - ⭐个人博客： [Apibug](https://www.apibug.com)  
