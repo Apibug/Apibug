@@ -16,13 +16,13 @@
 
 - ⚡ `PHP` && `软件开发` && `打游戏`
 
-- ⭐个人博客： [Apibug](https://www.apibug.com)  
+- ⭐个人主页： [Apibug](https://apibug.github.io/)  
 
 - 💬 Api聚合： [Apibug_Api](https://apibug.cn) 
 
 - 💻 个人网盘： [个人常用工具](http://91dong.ys168.com) 
 
-- 微信公众号：`Apibug`  
+- 微信：`Apibug`  
 
 - 琴弦断了，缘尽了，你也走了。 你是过客，温柔到这，沉默了。
 
@@ -50,6 +50,7 @@
 <p align="left">
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apibug&repo=douyin_homepage&theme=radical)](https://github.com/Apibug/douyin_homepage)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apibug&repo=dspjx&theme=radical)](https://github.com/Apibug/dspjx) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apibug&repo=dspjx&theme=radical)](https://github.com/Apibug/dspjx)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apibug&repo=qqkey&theme=cobalt)](https://github.com/Apibug/qqkey)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apibug&repo=apibug.github.io&theme=cobalt)](https://github.com/Apibug/apibug.github.io)
 </p>
