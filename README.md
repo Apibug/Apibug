@@ -1,6 +1,5 @@
 ## Apibug - 被搁浅的☀
 ---
-![image-20230815142616338](https://raw.githubusercontent.com/ibaiw/2023Hvv/main/1Panel loadfile 后台文件读取漏洞.assets/image-20230815142616338.png)
 <a href="http://wpa.qq.com/msgrd?v=3&uin=9147218&site=qq&menu=yes">
   <img align="left" alt="Apibug | QQ" width="26px" src="https://raw.githubusercontent.com/Apibug/Apibug/master/icon/QQ.svg" />
 </a>
