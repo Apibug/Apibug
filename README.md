@@ -1,6 +1,6 @@
 ## Apibug - 被搁浅的☀
 ---
-<a href="http://wpa.qq.com/msgrd?v=3&uin=9147218&site=qq&menu=yes">
+<a href="http://wpa.qq.com/msgrd?v=3&uin=597113&site=qq&menu=yes">
   <img align="left" alt="Apibug | QQ" width="26px" src="https://raw.githubusercontent.com/Apibug/Apibug/master/icon/QQ.svg" />
 </a>
 <a href="https://weibo.com/5196733137">
@@ -15,13 +15,9 @@
 ### I'm Apibug 
 
 
-- ⭐个人主页： [Apibug](https://apibug.github.io/)  
-
-- 💬 Api聚合： [Apibug_Api](https://apibug.cn) 
+- ⭐个人主页： [Apibug](https://www.apibug.com/)  
 
 - 💻 个人网盘： [个人常用工具](http://ys.apibug.com) 
-
-- 微信：`Apibug`  
 
 - 琴弦断了，缘尽了，你也走了。
 
@@ -32,7 +28,7 @@
 - 💻 &#160; ![Python](https://img.shields.io/badge/python-3-blue)
 ![C](https://img.shields.io/badge/C-%E8%AF%AD%E8%A8%80-red)
 ![Go](https://img.shields.io/badge/Go-Lang-green)
-![PHP](https://img.shields.io/badge/PHP-5-brightgreen)
+![PHP](https://img.shields.io/badge/PHP-7-brightgreen)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 ![Shell](https://img.shields.io/badge/Bash-Shell-lightgrey)
@@ -48,8 +44,8 @@
 ## 置顶项目
 <p align="left">
   
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apibug&repo=Apibug_fuckOC_JRMemory&theme=radical)]([https://github.com/Apibug/douyin_homepage](https://github.com/Apibug/Apibug_fuckOC_JRMemory))
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apibug&repo=dspjx&theme=radical)](https://github.com/Apibug/dspjx)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apibug&repo=qqkey&theme=cobalt)](https://github.com/Apibug/qqkey)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apibug&repo=apibug.github.io&theme=cobalt)](https://github.com/Apibug/apibug.github.io)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apibug&repo=Apibug_fuckOC_JRMemory&theme=radical)]([https://github.com/Apibug/Apibug_fuckOC_JRMemory](https://github.com/Apibug/Apibug_fuckOC_JRMemory))
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apibug&repo=WeChatPluginHook&theme=radical)](https://github.com/Apibug/WeChatPluginHook)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apibug&repo=Cheat-Engine-IOS&theme=cobalt)](https://github.com/Apibug/Cheat-Engine-IOS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apibug&repo=BsphpCrack&theme=cobalt)](https://github.com/Apibug/BsphpCrack)
 </p>
